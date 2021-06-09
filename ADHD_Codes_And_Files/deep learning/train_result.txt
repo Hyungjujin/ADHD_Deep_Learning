@@ -1,0 +1,12 @@
+test1: 10 subjects from healthy control and ADHD Combined Type
+0.45
+test2: 10 other subjects
+0.35
+test3: proc time series data from different timeline
+0.45
+test4: Use datasets with similar time series length(8600~88000)
+0.50
+test5: 1 subject from each group. Then crop data from subjects.
+1.0
+test6: 2 subject from ADHD Combined Type group. Then crop data from subjects.
+1.0
